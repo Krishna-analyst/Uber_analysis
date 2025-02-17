@@ -50,9 +50,6 @@ The project includes various plots, such as:
 - **Promotional offers** for personal rides to boost engagement.
 - **Encourage business rides** with corporate partnerships.
 
-## 🖼️ Image Attachment (if necessary)
-If required, attach visualizations like heatmaps, bar charts, or time-series trends to enhance the README.
-
 ## 🔮 Future Improvements
 - Integrate weather and traffic data.
 - Predictive modeling for ride demand.
